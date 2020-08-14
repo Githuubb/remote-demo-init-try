@@ -1,1 +1,3 @@
-add the first linee in m3.txt
+add the first line in m3.txt
+
+add secong line in m3.txt
