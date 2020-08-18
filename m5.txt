@@ -1,0 +1,6 @@
+123456 test conflict in m5.txt
+
+A
+
+A
+A
